@@ -33,3 +33,10 @@ def listar_produtos():
 @app.get("/")
 def ola_mundo():
     return {"Olá":"mundo!"}
+
+@app.get("/produtos/{id}")
+def buscar_produto(id: int):
+    for produto in produtos:
+        if produto["id"] == id:
+            return produto
+    return {"Status":404, "Mensagem":"Produto não encontrado"}, 
