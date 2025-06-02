@@ -1,5 +1,6 @@
 from fastapi.testclient import TestClient
-from main import app
+from app.main import app
+
 client = TestClient(app)
 def test_ola_mundo():
     response = client.get("/")
