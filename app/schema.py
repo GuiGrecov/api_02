@@ -3,6 +3,6 @@ from typing import Optional
 
 class ProdutoSchema(BaseModel):
     id: int
-    nome: str
+    titulo: str
     preco: PositiveInt
     descricao: Optional[str] = None
