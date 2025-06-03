@@ -1,5 +1,6 @@
 fastapi
-httpx
+psycopg2-binary
 pydantic
+SQLAlchemy
 uvicorn
-pytest
+python-dotenv
