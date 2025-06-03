@@ -1,0 +1,25 @@
+[33m4928b87[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: pull origin main --rebase: Fast-forward
+[33m46c1ad0[m HEAD@{1}: checkout: moving from database to main
+[33m0f549a3[m[33m ([m[1;31morigin/database[m[33m, [m[1;32mdatabase[m[33m)[m HEAD@{2}: commit: fix corrigindo main.yml
+[33m431c757[m HEAD@{3}: commit: fix update2
+[33mf55a939[m HEAD@{4}: commit: fix update 2
+[33me694c69[m HEAD@{5}: commit: fix update
+[33mc026618[m HEAD@{6}: commit: fix requirements all
+[33m527aff8[m HEAD@{7}: commit: fix requirements
+[33mbe2ee68[m HEAD@{8}: commit: refatorando o código
+[33m5cf5edd[m[33m ([m[1;31morigin/pydantic[m[33m, [m[1;32mpydantic[m[33m)[m HEAD@{9}: checkout: moving from pydantic to database
+[33m5cf5edd[m[33m ([m[1;31morigin/pydantic[m[33m, [m[1;32mpydantic[m[33m)[m HEAD@{10}: commit: ajustando o pytest
+[33ma29c112[m HEAD@{11}: commit: adicionando pydantic
+[33m0b69f8b[m[33m ([m[1;31morigin/pegaproduto[m[33m, [m[1;32mpegaproduto[m[33m)[m HEAD@{12}: checkout: moving from pegaproduto to pydantic
+[33m0b69f8b[m[33m ([m[1;31morigin/pegaproduto[m[33m, [m[1;32mpegaproduto[m[33m)[m HEAD@{13}: commit: adicionando mais uma rota
+[33m46c1ad0[m HEAD@{14}: checkout: moving from main to pegaproduto
+[33m46c1ad0[m HEAD@{15}: pull: Fast-forward
+[33med66264[m HEAD@{16}: checkout: moving from produtos3 to main
+[33m3331402[m[33m ([m[1;31morigin/produtos3[m[33m, [m[1;32mprodutos3[m[33m)[m HEAD@{17}: commit: arrumando o ci
+[33m7a0a9e2[m[33m ([m[1;31morigin/produtos2[m[33m, [m[1;32mprodutos2[m[33m)[m HEAD@{18}: checkout: moving from produtos2 to produtos3
+[33m7a0a9e2[m[33m ([m[1;31morigin/produtos2[m[33m, [m[1;32mprodutos2[m[33m)[m HEAD@{19}: commit: arrumando o cli
+[33mf71763a[m[33m ([m[1;31morigin/produtos[m[33m, [m[1;32mprodutos[m[33m)[m HEAD@{20}: checkout: moving from produtos to produtos2
+[33mf71763a[m[33m ([m[1;31morigin/produtos[m[33m, [m[1;32mprodutos[m[33m)[m HEAD@{21}: commit: adicionando uma nova rota
+[33med66264[m HEAD@{22}: checkout: moving from main to produtos
+[33med66264[m HEAD@{23}: Branch: renamed refs/heads/master to refs/heads/main
+[33med66264[m HEAD@{25}: commit (initial): first commit
