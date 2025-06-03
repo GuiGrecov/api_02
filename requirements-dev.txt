@@ -5,3 +5,6 @@ pydantic
 pytest
 taskipy
 uvicorn
+psycopg2-binary
+SQLAlchemy
+python-dotenv
